@@ -347,6 +347,3 @@ npm run lint      # Run ESLint
 
 ---
 
-## 👥 Authors
-
-Developed as a Full Stack Development (FSD) Software Development Project at **KLEF University**.
