@@ -1,0 +1,22 @@
+# ----------- GENERAL -----------
+.DS_Store
+Thumbs.db
+
+# ----------- NODE (React Frontend) -----------
+node_modules/
+build/
+dist/
+.env
+
+# ----------- JAVA / SPRING BOOT -----------
+target/
+*.log
+*.class
+
+# ----------- IDE FILES -----------
+.vscode/
+.idea/
+*.iml
+
+# ----------- OS FILES -----------
+*.swp
